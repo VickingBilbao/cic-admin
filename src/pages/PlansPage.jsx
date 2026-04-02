@@ -15,7 +15,7 @@ const S = {
   features:  { listStyle: 'none', padding: 0 },
   feature:   { fontSize: 13, color: 'rgba(148,163,184,0.7)', padding: '3px 0', display: 'flex', gap: 8 },
   editBtn:   {
-    marginTop: 16, width: '100%', padding: '9px', borderRadius: 8, border: 'none', cursor: 'pointer',
+    marginTop: 16, width: '100%', padding: '9px', borderRadius: 8, cursor: 'pointer',
     background: 'rgba(6,182,212,0.12)', color: '#06b6d4', border: '1px solid rgba(6,182,212,0.25)',
     fontSize: 13, fontWeight: 600,
   },

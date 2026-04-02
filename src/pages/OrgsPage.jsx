@@ -7,7 +7,7 @@ const S = {
   header:   { display:'flex', justifyContent:'space-between', alignItems:'center', marginBottom: 24 },
   title:    { fontSize: 24, fontWeight: 700 },
   addBtn:   {
-    padding: '9px 18px', borderRadius: 8, border: 'none', cursor: 'pointer',
+    padding: '9px 18px', borderRadius: 8, cursor: 'pointer',
     background: 'rgba(6,182,212,0.15)', color: '#06b6d4',
     border: '1px solid rgba(6,182,212,0.3)', fontSize: 14, fontWeight: 600,
   },
